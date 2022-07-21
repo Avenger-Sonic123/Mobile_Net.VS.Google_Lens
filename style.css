@@ -1,0 +1,12 @@
+.test_image_and_result
+{
+    border-radius: 10px;
+    box-shadow: inset;
+    border-color: black;
+    background-color: aquamarine;
+}
+
+hr
+{
+    background-color: rgb(246, 241, 241);
+}
